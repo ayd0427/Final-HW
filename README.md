@@ -17,7 +17,7 @@
 3.[데이터보기3](https://github.com/ayd0427/Final-HW/blob/master/sale.zip)
 
 ## 소스
-* [링크로 소스 내용 보기](https://github.com/cybermin/python2019/blob/master/tes.py) 
+* [링크로 소스 내용 보기](https://github.com/ayd0427/Final-HW/blob/master/201529154_%EC%95%88%EC%9A%A9%EB%8D%95_%EA%B8%B0%EB%A7%90%EA%B3%BC%EC%A0%9C.py) 
 
 * 코드 삽입
 ~~~python
