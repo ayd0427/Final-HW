@@ -12,9 +12,9 @@
 4. 사용자가 원하면 수산물 위판장의 목록을 나열.
 
 ## 사용한 공공데이터 
-[데이터보기1](https://github.com/ayd0427/Final-HW/blob/master/inspection.csv)
-[데이터보기2](https://github.com/ayd0427/Final-HW/blob/master/origin.csv)
-[데이터보기3](https://github.com/ayd0427/Final-HW/blob/master/sale.zip)
+1.[데이터보기1](https://github.com/ayd0427/Final-HW/blob/master/inspection.csv)
+2.[데이터보기2](https://github.com/ayd0427/Final-HW/blob/master/origin.csv)
+3.[데이터보기3](https://github.com/ayd0427/Final-HW/blob/master/sale.zip)
 
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/cybermin/python2019/blob/master/tes.py) 
